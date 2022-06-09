@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang - Kotlin - Java - Swift and Obj-C
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on other developers
-- 📫 How to reach me myhien.itrec@gmail.com
+- 📫 How to reach me: myhien@lozi.vn
 
 <!---
 myhienn/myhienn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
