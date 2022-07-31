@@ -2,7 +2,8 @@
 - 👀 I’m interested in Golang - Kotlin - Java - Swift and Obj-C
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on other developers. If you are looking for new jobs, please contact me !!! 
-- 📫 How to reach me: myhien@lozi.vn
+- 📞 Skype: live:.cid.fafa56ce6318defd OR 0909.826.831
+- 📫 How to reach me: myhien.itrec@gmail.com 
 
 <!---
 myhienn/myhienn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
