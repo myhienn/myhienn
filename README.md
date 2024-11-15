@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang - Kotlin - Java - Swift and Obj-C
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on other developers. If you are looking for new jobs, please contact me !!! 
-- 📞 Skype: live:.cid.fafa56ce6318defd OR 0909.826.831
+- 📞 Skype: live:.cid.fafa56ce6318defd
 - 📫 How to reach me: myhien.itrec@gmail.com 
 
 <!---
