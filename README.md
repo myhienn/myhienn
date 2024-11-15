@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @myhienn
-- 👀 I’m interested in Golang - Kotlin - Java - Swift and Obj-C
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on other developers. If you are looking for new jobs, please contact me !!! 
+- 👋 Hi, Mình là một bạn TA đáng yêu nhất hệ mặt trời
+- 👀 Hiring all IT positions (Developer/ Scrum Master/ Product Owner/ QA/ Data Science/ Data Engineer/ AI roles...)  
+- 💞️ I’m looking to collaborate on candidates. If you are looking for new jobs, please contact me !!! 
 - 📞 Skype: live:.cid.fafa56ce6318defd
 - 📫 How to reach me: myhien.itrec@gmail.com 
 
